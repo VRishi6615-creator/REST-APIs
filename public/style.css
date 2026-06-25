@@ -1,0 +1,21 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+
+.post{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.user{
+    font-style: italic;
+}
+
+.newpost{
+    display: block;
+    text-align: center;
+}
+
+.id{
+    text-align: center;
+}
